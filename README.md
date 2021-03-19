@@ -1,1 +1,1 @@
-# Hand-_gesture_finger_counting_openCV
+# Hand_gesture_finger_counting_openCV
